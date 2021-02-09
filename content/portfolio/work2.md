@@ -1,8 +1,8 @@
 +++
 date = "2016-11-05T19:41:01+05:30"
-title = "Name of the work 2"
+title = "Dracula for Obsidian"
 draft = false
-image = "img/portfolio/business-card-26.jpg"
+image = "img/Obsidian/Obsidian_5.png"
 showonlyimage = false
 weight = 1
 +++
