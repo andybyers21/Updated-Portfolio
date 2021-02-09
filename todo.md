@@ -5,6 +5,6 @@
 - [ ] Change occurrences of "portfolio" to "Projects" and reword.
 - [ ] Add a link to online CV.
 - [ ] Rename portfolio pages.
-- [ ]
+- [ ] Clean unused folders.
 - [ ]
 - [ ]
