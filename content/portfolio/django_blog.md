@@ -1,5 +1,5 @@
 +++
-image = "img/portfolio/label-clothes.jpg"
+image = "img/placeholder.png"
 showonlyimage = false
 date = "2016-11-05T19:57:40+05:30"
 title = "A Django Blog Platform"
@@ -7,7 +7,9 @@ draft = false
 weight = 7
 +++
 
-Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
+A blogging platform built using Django 2.2, Python 3.6, SQLite 3 and Bootstrap.
+
+Pluggable blog post & search apps, user management, security, Django authentication. Post drafts, saving & editing. Complex lookups.
 <!--more-->
 
 Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.

@@ -10,8 +10,8 @@ languageCode = "en-us"
   description = "Describe your website"
   copyright = "&copy;2021 Andy Byers, Made using with Go, using Hugo"
   sidebarAbout = [
-    "I am a _Cool Dude_ with more than 10 years of experience of being a _Cool Dude_.",
-    "Originally from Toronto, currently based in London."
+    "I’m a developer with an understanding of business logic, user requirements and a background in project management. (APM qualified).",
+"I am currently looking for a remote position within an ambitious organisation where I can continue to challenge myself to improve my hard and soft skills."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a

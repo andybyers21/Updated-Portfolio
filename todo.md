@@ -9,4 +9,6 @@
 - [ ] Set dates on portfolio pieces (for organisation)
 - [ ] Add links on portfolio pages (github & live)
 - [ ] Update color scheme from violet
+- [ ] Update favicon
+- [ ] Update about page
 

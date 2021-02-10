@@ -7,7 +7,10 @@ showonlyimage = false
 weight = 1
 +++
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.
+A personal note taking site I developed to create, share and manage my ongoing notes. Built using Jekyll, using the JTD framework and Lunr.JS for search. Deployed with Netlify.
+
+Notes are written in markdown format and can be linked using [[Wikilinks]].
+
 <!--more-->
 
 Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
