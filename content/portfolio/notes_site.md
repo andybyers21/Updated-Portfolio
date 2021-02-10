@@ -9,26 +9,23 @@ weight = 1
 
 A personal note taking site I developed to create, share and manage my ongoing notes. Built using Jekyll, using the JTD framework and Lunr.JS for search. Deployed with Netlify.
 
-Notes are written in markdown format and can be linked using [[Wikilinks]].
-
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+Notes are written in markdown format and can be linked using [[Wikilinks]].
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+**Wheres the links!**
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+Notes are automatically transformed by Jekyll into a static site whenever I push this repo to GitHub and deployed to the web by Netlify.
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+Netlify Status
 
-## Header Level 2
+Backlinks maintained with Andy Matuschak’s Note Link Janitor
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+Built on the Just the Docs framework by Patrick Marsceill.
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+Search by Lunr.js.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
+Notes are written in markdown format and related thoughts linked with Wikilinks.
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+Hosted under the MIT license.
+

@@ -6,7 +6,7 @@ languageCode = "en"
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
-  style = "violet"
+  style = "blue"
   description = "Describe your website"
   copyright = "&copy;2021 Andy Byers, ajb.app"
   sidebarAbout = [
