@@ -1,8 +1,8 @@
 +++
 date = "2016-11-05T19:41:01+05:30"
-title = "Another Work"
+title = "notes.ajb.app"
 draft = false
-image = "img/Python Docs Cover.png"
+image = "img/notes/notes_head.png"
 showonlyimage = false
 weight = 1
 +++

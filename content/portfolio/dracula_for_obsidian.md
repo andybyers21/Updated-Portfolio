@@ -15,7 +15,6 @@ Obsidian.md, Offical Dracula Theme
 
 A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
 
-
 ![this is an test image](/img/Obsidian/Obsidian_1.png)
 
 1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
