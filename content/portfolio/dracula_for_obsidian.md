@@ -1,18 +1,22 @@
 +++
-image = "img/portfolio/gravity-paper.jpg"
+image = "img/Obsidian/Obsidian_Head.png"
 showonlyimage = false
 date = "2016-11-05T19:44:32+05:30"
-title = "Name of the work 3"
+title = "Dracula for Obsidian"
 draft = false
 weight = 2
 +++
 
-Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
+Developed as part of the Dracula open source team. A fully spec‐compliant dark theme developed for the knowledge management app Obsidian.md, the Dracula specification.
+
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+Obsidian.md, Offical Dracula Theme
 
 A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+
+
+![this is an test image](/img/Obsidian/Obsidian_1.png)
 
 1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 2. Aliquam tincidunt mauris eu risus.

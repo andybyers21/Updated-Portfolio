@@ -6,5 +6,5 @@
 - [ ] Add a link to online CV.
 - [ ] Rename portfolio pages.
 - [ ] Clean unused folders.
-- [ ]
+- [ ] Set dates on portfolio pieces (for organisation)
 - [ ]
