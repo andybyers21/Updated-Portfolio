@@ -11,4 +11,4 @@
 - [ ] Update color scheme from violet
 - [ ] Update favicon
 - [ ] Update about page
-
+- [ ] Update site description in config.toml
