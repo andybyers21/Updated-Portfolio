@@ -5,7 +5,13 @@ title = "About me"
 
 ![me](/img/AndyByers1.png)
 
-I’m a developer with an understanding of business logic, user requirements and a background in project management. (APM qualified).
+## Hi, I'm Andy Byers
+
+I’m a web developer with a background in business management and designing and building retail stuff. 
+
+**get some stuff from notes page here**
+
+an understanding of business logic, user requirements and a background in project management. (APM qualified).
 
 - Strong data and knowledge management skills.
 - Soft skills, working within a team and collaborating cross department at all business levels.
