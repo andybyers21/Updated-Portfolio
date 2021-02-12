@@ -7,6 +7,13 @@ title = "About me"
 
 ## Hi, I'm Andy Byers
 
+I'm a...
+I do...
+I work with...
+I write about... 
+
+for reasons
+
 I’m a web developer with a background in business management and designing and building retail stuff. 
 
 **get some stuff from notes page here**

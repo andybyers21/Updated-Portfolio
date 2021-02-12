@@ -15,4 +15,6 @@
 - [ ] Update social links
 - [ ] Add netlify build status to the page somewhere???
 - [ ] Add telephone number to contact area
+- [ ] Link to projects in github readme
+- [ ] Add mobile responsive to pages
 

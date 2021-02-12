@@ -51,6 +51,10 @@ languageCode = "en"
   name = "Contact Me"
   url = "contact/"
 
+  [[params.navlinks]]
+  name = "My CV"
+  url = "resume/abresume/"
+
   [params.social]
 #  facebook      = ""
 #  googleplus    = ""
