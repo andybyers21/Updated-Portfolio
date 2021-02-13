@@ -2,9 +2,8 @@
 draft = false
 image = "img/placeholder.png"
 showonlyimage = false
-date = "2016-11-05T20:02:19+05:30"
 title = "Go News Demo (Rename)"
-weight = 9
+weight = 1
 +++
 
 A news API site written in Go.

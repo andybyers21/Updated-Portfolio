@@ -1,10 +1,9 @@
 +++
 image = "img/placeholder.png"
 showonlyimage = false
-date = "2016-11-05T19:57:40+05:30"
 title = "A Django Blog Platform"
 draft = false
-weight = 7
+weight = 4
 +++
 
 A blogging platform built using Django 2.2, Python 3.6, SQLite 3 and Bootstrap.

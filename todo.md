@@ -17,4 +17,5 @@
 - [ ] Add telephone number to contact area
 - [ ] Link to projects in github readme
 - [ ] Add mobile responsive to pages
+- [ ] Update styling to CV (bullet points `>`)
 

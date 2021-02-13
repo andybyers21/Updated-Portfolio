@@ -1,15 +1,25 @@
 +++
 image = "img/Obsidian/Obsidian_Head.png"
 showonlyimage = false
-date = "2016-11-05T19:44:32+05:30"
 title = "Dracula for Obsidian"
 draft = false
-weight = 2
+weight = 3
 +++
 
-Developed as part of the Dracula open source team. A fully spec‐compliant dark theme developed for the knowledge management app Obsidian.md, the Dracula specification.
+Developed as part of the Dracula open source team. A fully spec‐compliant dark
+theme developed for the knowledge management app Obsidian.md, the Dracula
+specification.
 
 <!--more-->
+
+- [View Source Code](https://github.com/)
+- [View Homepage](https://github.com)
+
+Dracula is a dark theme for developers with implementations across over 160
+apps. I designed and created the Obsidian branch for use with the knowledge base
+software [Obsidian](https://obsidian.md).
+
+![Obsidian](/img/Obsidian/Obsidian_5.png)
 
 Obsidian.md, Offical Dracula Theme
 
