@@ -3,7 +3,7 @@ title = "notes.ajb.app"
 draft = false
 image = "img/notes/notes_head.png"
 showonlyimage = false
-weight = 2
+weight = 1
 +++
 
 A personal note taking site I developed to create, share and manage my ongoing notes. Built using

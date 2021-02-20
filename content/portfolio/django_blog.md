@@ -1,17 +1,18 @@
 +++
-image = "img/placeholder.png"
+image = "img/django_blog/blog_head.png"
 showonlyimage = false
 title = "A Django Blog Platform"
 draft = false
 weight = 4
 +++
 
-A blogging platform built using Django 2.2, Python 3.6, SQLite 3 and Bootstrap.
-
 Pluggable blog post & search apps, user management, security, Django authentication. Post drafts, saving & editing. Complex lookups.
+
 <!--more-->
 
 - [View Source Code](https://github.com/andybyers21/django-blog-platform)
+
+A blogging platform built using Django 2.2, Python 3.6, SQLite 3 and Bootstrap.
 
 ## Tech Stack
 

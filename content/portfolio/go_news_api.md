@@ -2,8 +2,8 @@
 draft = false
 image = "img/news/news_head.png"
 showonlyimage = false
-title = "Go News Demo App"
-weight = 1
+title = "Go News App Demo"
+weight = 2
 +++
 
 A News Aggregator web service written in Go. Build and deployed using only Go's standard library.
