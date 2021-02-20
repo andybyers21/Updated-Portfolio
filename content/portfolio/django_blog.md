@@ -13,7 +13,13 @@ Pluggable blog post & search apps, user management, security, Django authenticat
 
 - [View Source Code](https://github.com/andybyers21/django-blog-platform)
 
-A blogging platform built using Django 2.2, Python 3.6, SQLite 3 and Bootstrap.
+## Tech Stack
+
+- Python 3.6
+- JavaScript
+- Django 2.2
+- SQLite 3
+- Bootstrap 4
 
 ![blog page](/img/django_blog/blog_page.png)
 

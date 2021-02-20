@@ -15,6 +15,8 @@ specification.
 - [View Source Code](https://github.com/dracula/obsidian)
 - [View Homepage](https://draculatheme.com/obsidian)
 
+- Pure CSS
+
 Dracula is a dark theme for developers with implementations across over 160
 apps. I designed and created the Obsidian branch for use with the knowledge base
 software [Obsidian](https://obsidian.md).
