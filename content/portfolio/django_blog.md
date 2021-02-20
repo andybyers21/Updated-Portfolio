@@ -13,9 +13,9 @@ Pluggable blog post & search apps, user management, security, Django authenticat
 
 - [View Source Code](https://github.com/andybyers21/django-blog-platform)
 
-# A Django Blog Platform
+A blogging platform built using Django 2.2, Python 3.6, SQLite 3 and Bootstrap.
 
-A blogging platform built using Django 2.2, Python 3.6, SQLite 3 and Bootstrap. 
+![blog page](/img/django_blog/blog_page.png)
 
 ## Features
 
@@ -29,26 +29,33 @@ A blogging platform built using Django 2.2, Python 3.6, SQLite 3 and Bootstrap.
 - URL routing.
 - Optimised for speed.
 
-## Logins for testing:
+## Logins for testing
 
 - **User**, *username:* test-user *Password:* story011
 - **Admin**, *username:* test-staff *Password:* afraid357
 - **Superuser**, *username:* test-super *Password:* current912
 
+![code page](/img/django_blog/blog_code.png)
+
+
+## Admin Pannel
+
+![admin page](/img/django_blog/blog_admin.png)
+
 ## Depandancies
 
 |||
-|----|----|
-autopep8 |   1.5.4
-Django   |   2.2
-Pillow   |   7.2.0
-pip      |   20.2.2
-pycodestyle  | 2.6.0
-pytz     |    2020.1
-setuptools  |  49.6.0
-sqlparse    |  0.3.1
-toml        |  0.10.1
-wheel       |  0.35.1
+|---------------|------------|
+autopep8        |   1.5.4
+Django          |   2.2
+Pillow          |   7.2.0
+pip             |   20.2.2
+pycodestyle     |   2.6.0
+pytz            |   2020.1
+setuptools      |   49.6.0
+sqlparse        |   0.3.1
+toml            |   0.10.1
+wheel           |   0.35.1
 
 ---
 
