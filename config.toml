@@ -11,7 +11,9 @@ languageCode = "en"
   copyright = "&copy;2021 Andy Byers, ajb.app"
   sidebarAbout = [
     "I’m a developer with an understanding of business logic, user requirements and a background in project management. (APM qualified).",
-"I am currently looking for a remote position within an ambitious organisation where I can continue to challenge myself to improve my hard and soft skills."
+"I am currently looking for a remote position within an ambitious organisation where I can continue to challenge myself to improve my hard and soft skills.",
+"Here are my projects, view my GitHub for more."
+
   ]
 
   # Contact page

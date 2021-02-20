@@ -1,32 +1,61 @@
 +++
 draft = false
-image = "img/placeholder.png"
+image = "img/news/news_head.png"
 showonlyimage = false
-title = "Go News Demo (Rename)"
+title = "Go News Demo App"
 weight = 1
 +++
 
-A news API site written in Go.
+A News Aggregator web service written in Go. Build and deployed using only Go's standard library.
 
-Here be some placeholder text to hold the place.
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+- [View Source Code](https://github.com/)
+- [View Homepage](https://github.com)
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+Some more stuff qabout the app:
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+- Use Go tamplating
+- Create search routing
+- Create and make requests to the News API server
+- Render and format the results
+- Deploy to the web (using Heroku)
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+![news 1](/img/news/news_1.png)
 
-## Header Level 2
+Using [NewsAPI.org](https://newsapi.org/)'s JSON API integration to colect data,
+fetch news articles matching a user search query
+and present the results on the page. News API is a simple HTTP REST
+API for searching and retrieving live articles from all over the web.
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+Input a search term and News API will scan thousands of news websites and
+organsie the information of the latest articles.
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+![news 2](/img/news/news_2.png)
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
+You can search for articles with any combination of the following criteria:
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+- **Keyword or phrase.** Eg: find all articles containing the word 'Microsoft'.
+- **Date published.** Eg: find all articles published yesterday.
+- **Source name.** Eg: find all articles by 'TechCrunch'.
+- **Source domain name.** Eg: find all articles published on thenextweb.com.
+- **Language.** Eg: find all articles written in English.
+
+When building the app locally you will requires a `.env` file to be created in
+the root with the following [info](info.md):
+
+```txt
+PORT=
+
+NEWS_API_KEY=
+```
+
+![news 3](/img/news/news_3.png)
+
+Technology Stack:
+
+- HTML
+- CSS
+- Javascript
+- Golang
+
