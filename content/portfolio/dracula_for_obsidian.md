@@ -12,8 +12,8 @@ specification.
 
 <!--more-->
 
-- [View Source Code](https://github.com/)
-- [View Homepage](https://github.com)
+- [View Source Code](https://github.com/dracula/obsidian)
+- [View Homepage](https://draculatheme.com/obsidian)
 
 Dracula is a dark theme for developers with implementations across over 160
 apps. I designed and created the Obsidian branch for use with the knowledge base

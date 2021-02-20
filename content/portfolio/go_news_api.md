@@ -10,8 +10,8 @@ A News Aggregator web service written in Go. Build and deployed using only Go's 
 
 <!--more-->
 
-- [View Source Code](https://github.com/)
-- [View Homepage](https://github.com)
+- [View Source Code](https://github.com/andybyers21/go_news_app_demo)
+- [View Site](https://go-news-app-demo.herokuapp.com/)
 
 Some more stuff qabout the app:
 

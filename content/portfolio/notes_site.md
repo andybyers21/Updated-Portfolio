@@ -12,7 +12,7 @@ Jekyll, the JTD framework and Lunr.JS for search. Deployed with Netlify.
 <!--more-->
 
 - [View Site](https://notes.ajb.app)
-- [View Source Code](https://https://github.com/andybyers21/notes.ajb.app)
+- [View Source Code](https://github.com/andybyers21/notes.ajb.app)
 
 This site is my personal research environment and an experiment in learning in public. I built it as
 a vault for my ongoing note taking. The topics are broad and cover things like self-education,
