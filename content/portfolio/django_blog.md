@@ -6,13 +6,13 @@ draft = false
 weight = 4
 +++
 
+A modern, fully open-source, blog web application built using Python, Django, Bootstrap, Javascript, and more.
+
 Pluggable blog post & search apps, user management, security, Django authentication. Post drafts, saving & editing. Complex lookups.
 
 <!--more-->
 
 - [View Source Code](https://github.com/andybyers21/django-blog-platform)
-
-A modern, fully open-source, blog web application built using Python, Django, Bootstrap, Javascript, and more.
 
 ## Tech Stack
 

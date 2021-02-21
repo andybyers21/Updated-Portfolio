@@ -6,7 +6,9 @@ showonlyimage = false
 weight = 1
 +++
 
-A personal note taking site I developed to create, share and manage my ongoing notes. Built using
+A personal note taking site I developed to create, share and manage my ongoing notes.
+
+Built using
 Jekyll, the JTD framework and Lunr.JS for search. Deployed with Netlify.
 
 <!--more-->

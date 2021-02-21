@@ -6,7 +6,9 @@ draft = false
 weight = 3
 +++
 
-Developed as part of the Dracula open source team. A fully spec‐compliant dark
+Developed as part of the Dracula open source team.
+
+A fully spec‐compliant dark
 theme developed for the knowledge management app Obsidian.md, the Dracula
 specification.
 
@@ -24,4 +26,3 @@ software [Obsidian](https://obsidian.md).
 ![Obsidian](/img/Obsidian/Obsidian_5.png)
 
 Obsidian.md, Offical Dracula Theme
-
