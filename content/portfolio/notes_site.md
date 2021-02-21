@@ -6,33 +6,6 @@ showonlyimage = false
 weight = 1
 +++
 
-Version History
-0.3
-0.3.0,
-Added automatic back-linking to notes
-Moved to a flat file structure for easier note retrieval
-Updated YAML Tags
-(Updated current notes to new YAML format)
-Updated navigation system
-Created tagging system for notes
-Top level navigation structure
-General navigation styling updates
-Removed deep links with Obsidian
-0.2
-0.2.4, 14th September 2020
-Add syntax highlighting to code-blocks
-Added more fonts for use with various systems
-Update color schemes for readability
-0.2.3, 23rd August 2020
-Refactor code and remove unnecessary plugins
-Public launch via netlify
-0.2.2, 10th August 2020
-Styling updates
-0.2.1, 29th July 2020
-Update navigation structure (folder based note sorting)
-0.2.0, 27th June 2020
-File system updated for better oganization and integration with Obsidian.mdr
-
 A personal note taking site I developed to create, share and manage my ongoing notes. Built using
 Jekyll, the JTD framework and Lunr.JS for search. Deployed with Netlify.
 
@@ -41,30 +14,44 @@ Jekyll, the JTD framework and Lunr.JS for search. Deployed with Netlify.
 - [View Site](https://notes.ajb.app)
 - [View Source Code](https://github.com/andybyers21/notes.ajb.app)
 
-## Tech Stack
-
-- Jekyll 3.something
-
-This site is my personal research environment and an experiment in learning in public. I built it as
-a vault for my ongoing note taking. The topics are broad and cover things like self-education,
-computer science & web concepts, personal knowledge management (PKM), productivity,
-entrepreneurship, strategy, marketing, wealth creation, note taking and whatever other rabbit holes
-I find myself in.
+This site is my personal research environment and an experiment in learning in public. It evolved from
+a vault I created to store for my ongoing note and a frustrstion with the tools (and cost) of what was avaliable at the time.
 
 ![notes](/img/notes/notes_home.png)
 
-I built this site as a vault for my ongoing note taking. The topics are broad and cover things like self-education, Computer Science & Web Concepts personal knowledge management (PKM), Productivity, entrepreneurship, strategy, marketing, Wealth Creation, and whatever other rabbit holes I find myself in. I’ve committed to sharing my findings with the world. If you’re willing to let people access your life, they’ll find what they need to help you succeed.
+The topics are broad and cover things like self-education, Computer Science & Web Concepts personal knowledge management (PKM), Productivity, entrepreneurship, strategy, marketing, Wealth Creation, and whatever other rabbit holes I find myself in. I’ve committed to sharing my findings with the world. If you’re willing to let people access your life, they’ll find what they need to help you succeed.
 
-This page is my personal research environment and an experiment in learning in public.
 Note categorization is loosely based on the zettelkasten system. Whenever you add a new note, the zettelkasten method forces you to look for already existing notes you can link to. That broadens your thinking by foring you to consider how new ideas relate to others you’ve encountered before. If you start with an initial idea you cannot help but filter everything you encounter. However, the zettelklasten system has no preconceptions of what it is fed over the long term, it builds on your thoughts over a period of time that could possibly span years. New ideas and insights will form just by comparing notes side by side. In turn, questions will emerge from the work, rather than being imposed on it.
 
-One important notion, there will be very few straight lines within this platform. It should be dominated by curves and offshoots.
+NOTE: As these are my personal notes some of them may not make any sense to you or be part complete. My intent for is to use them for developing ideas over time.
 
-If you want to view the code you can do so here. You can see my TO-DO list for the site. If you want to get in touch with me or have any comments, you can do so by emailing me at a@ajb.app
+## Features
 
-P.S. As these are my personal notes some of them may not make any sense to you or be part complete. My intent for is to use them for developing ideas over time.
+Notes are catogarised and tagged using YAML Tags
 
-If you happen to stumble across my notes on learning to code please be aware that they are written on an Apple developer environment.c
+Top level navigation structure and a flat file structure for easier note retrieval. File sysytem is organised in such a waty that it can easily be integrated with [Obsidian](https://obsidian.md), [VimWiki](http://vimwiki.github.io/) and other markdown based note taking tools.
+
+code-block syntax highlighting
+
+```py
+def fizzy(y):
+    for a in range(1, (y + 1)):
+        if a % 3 == 0 and a % 5 == 0:
+            print("FIZZBUZZ")
+        elif a % 3 == 0:
+            print("FIZZ")
+        elif a % 5 == 0:
+            print("BUZZ")
+        else:
+            print(a)
+
+
+y = int(input('how many fizzbuzzes? '))
+
+fizzy(y)
+```
+
+Compatable with various environments, Chrome, Safari and Firefox among others
 
 Notes can be created in plain text or markdown in your editor of choice and backlinks and wikilinks
 are automatically generated on save. Notes are automatically transformed by Jekyll into a static

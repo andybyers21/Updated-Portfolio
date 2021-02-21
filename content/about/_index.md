@@ -49,14 +49,10 @@ learn and develop my technical skill.
 
 - Bootstrap
 - Django
-
-#### Site Generators
-
-- Jekyll
 - Hugo
+- Jekyll
 
 #### Data Wrangling
 
 - Jupyter
 - Python Pandas
-

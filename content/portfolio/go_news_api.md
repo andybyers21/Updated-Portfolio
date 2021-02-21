@@ -13,7 +13,7 @@ A News Aggregator web service written in Go. Build and deployed using only Go's 
 - [View Source Code](https://github.com/andybyers21/go_news_app_demo)
 - [View Site](https://go-news-app-demo.herokuapp.com/)
 
-Some more stuff qabout the app:
+Some more stuff qabout the app: something about RESTFUL API"s
 
 - Use Go tamplating
 - Create search routing
@@ -58,4 +58,3 @@ Technology Stack:
 - CSS
 - Javascript
 - Golang
-
