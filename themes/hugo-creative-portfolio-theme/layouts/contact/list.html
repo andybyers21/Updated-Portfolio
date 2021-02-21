@@ -5,9 +5,9 @@
     <div class="col-lg-8">
       <div class="content-column-content">
          <h1>{{ .Title }}</h1>
-         {{ .Content }}
-         <h4>You can find me also on:</h4>
+         <h4>You can reach me on:</h4>
          {{ partial "social_buttons_in_contact.html" . }}
+         {{ .Content }}
          {{ with .Site.Params.email }}
          <h4>Drop me a line, maybe?</h4>
          <form id="contact-form" class="contact-form form" method="post" action="https://formspree.io/{{ . }}">
