@@ -12,12 +12,12 @@ web app development. In the past I've worked in leadership positions within the
 oil and gas offshore maintenance sector and successfully run a wholly owned
 retail operation where I refined my development skills.
 
-I like to iterate quickly. Designing, testing, and developing software using
-systems thinking and problem-solving techniques that I have learned outside of
-the industry. I am not married to one technology and choose the right tool for
-the job. I like to have a product mindset in everything I design and understand
-creating value, not features. I'm a proponent of open source software and open
-source thinking.
+I like to iterate quickly, a sticker for writing succinct, understable code.
+Designing, testing, and developing software using systems thinking and
+problem-solving techniques that I have learned outside of the industry. I am not
+married to one technology and choose the right tool for the job. I like to have
+a product mindset in everything I design and understand creating value, not
+features. I'm a proponent of open source software and open source thinking.
 
 I’ve background in business management and project management as well as
 designing and building apps for risk management, document management and
