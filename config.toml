@@ -7,8 +7,8 @@ languageCode = "en"
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "blue"
-  description = "Describe your website"
-  copyright = "&copy;2021 Andy Byers, ajb.app"
+  description = "Hi, I'm Andy Byers, Web Developer. Coding in Python, JavaScript and GoLang"
+  copyright = "Andy Byers | a@ajb.app | &copy;2021"
   sidebarAbout = [
     "Hi, I’m Andy. I'm a web developer who likes to code in Python and Golang. APM qualified with a background in project management.",
     "These are some of my favourite projects, view my GitHub for more."
