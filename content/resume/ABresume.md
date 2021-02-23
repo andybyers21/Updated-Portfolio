@@ -1,8 +1,6 @@
 +++
-title = "My CV"
+title = "Andy Byers"
 +++
-
-# Andy Byers
 
 ## Full Stack Web Developer
 
