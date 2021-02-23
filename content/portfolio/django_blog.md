@@ -6,7 +6,7 @@ draft = false
 weight = 4
 +++
 
-A modern, fully open-source, blog web application built using Python, Django, Bootstrap, Javascript, and more.
+A modern, fully open-source, blog web application built in Django.
 
 Pluggable blog post & search apps, user management, security, Django authentication. Post drafts, saving & editing. Complex lookups.
 
@@ -16,9 +16,7 @@ Pluggable blog post & search apps, user management, security, Django authenticat
 
 ## Tech Stack
 
-- Python environments, check which one
-
-- Python 3.6
+- Built in a Python 3.6 virtual environment
 - JavaScript
 - Django 2.2
 - SQLite 3
@@ -48,6 +46,8 @@ Pluggable blog post & search apps, user management, security, Django authenticat
 
 ## Admin Pannel
 
+Also features a complete admin pannel.
+
 ![admin page](/img/django_blog/blog_admin.png)
 
 ## Depandancies
@@ -65,6 +65,8 @@ Pluggable blog post & search apps, user management, security, Django authenticat
 | toml        | 0.10.1 |
 | wheel       | 0.35.1 |
 
+Hosted under [the MIT license](https://opensource.org/licenses/MIT).
+
 ---
 
 ## TO-DO
@@ -74,10 +76,3 @@ Pluggable blog post & search apps, user management, security, Django authenticat
 - [ ] Take out of Debug Mode
 - [ ] Host.
 
----
-
-## Bugs
-
-- [ ] Two Login buttons on Nav before login
-- [ ] Add image to an edited post is borken.
-- [ ] Update search returns 0 results page, if returns no results - Say your search for … returned no results

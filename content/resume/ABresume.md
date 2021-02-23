@@ -1,20 +1,14 @@
 +++
-title = "my cv bro"
+title = "My CV"
 +++
 
 # Andy Byers
 
 ## Full Stack Web Developer
 
-> **Python / JavaScript / HTML / CSS**
-
 ---
 
-> [andy@ajb.app](mailto:andy@ajb.app) • (+44) 07960 088 671 • [Online Portfolio](https://ajb.app) • [GitHub](https://github.com/andybyers21)
-
----
-
-> I’m a developer with an understanding of business logic, user requirements and a background in project management (**APM qualified**). Currently freelancing in the software development space. Proponent of open source software and open source thinking.
+I’m a developer with an understanding of business logic, user requirements and a background in project management (**APM qualified**). Currently freelancing in the software development space. Proponent of open source software and open source thinking.
 
 ---
 

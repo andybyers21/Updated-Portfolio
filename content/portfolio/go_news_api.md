@@ -6,14 +6,16 @@ title = "Go News App Demo"
 weight = 2
 +++
 
-A News Aggregator web service written in Go. Build and deployed using only Go's standard library.
+A News Aggregator RESTful Web service written in Go.
+
+Build and deployed using only Go's standard library.
 
 <!--more-->
 
 - [View Source Code](https://github.com/andybyers21/go_news_app_demo)
 - [View Site](https://go-news-app-demo.herokuapp.com/)
 
-Some more stuff qabout the app: something about RESTFUL API"s
+This app was built with a few specific goals in mind:
 
 - Use Go tamplating
 - Create search routing
@@ -23,7 +25,7 @@ Some more stuff qabout the app: something about RESTFUL API"s
 
 ![news 1](/img/news/news_1.png)
 
-Using [NewsAPI.org](https://newsapi.org/)'s JSON API integration to colect data,
+The app uses [NewsAPI.org](https://newsapi.org/)'s JSON API integration to colect data,
 fetch news articles matching a user search query
 and present the results on the page. News API is a simple HTTP REST
 API for searching and retrieving live articles from all over the web.
@@ -58,3 +60,6 @@ Technology Stack:
 - CSS
 - Javascript
 - Golang
+
+Hosted under the [the MIT license](https://opensource.org/licenses/MIT).
+
