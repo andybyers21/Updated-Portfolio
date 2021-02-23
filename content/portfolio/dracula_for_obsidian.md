@@ -27,7 +27,7 @@ Dracula Team and Obsidian specifications.
 
 ![Obsidian](/img/Obsidian/Obsidian_1.png)
 
-I am part of the open source team and maintainer of teh Obsidian branch,
+I am part of the open source team and maintainer of the Obsidian branch,
 reviewing pull requests and managing issues. Working with users and contributors.
 
 ![Obsidian](/img/Obsidian/obsidian_2.png)

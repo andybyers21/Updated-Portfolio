@@ -66,7 +66,7 @@ Providing third-party R&D support in the development and deployment of RISCm, a 
 
 - Assisted in the development of a 5-year competency and training plan, now a national OPITO standard (Blasting and Painting Competence Standard).
 - Development and testing of a new coating system and application processes resulting in a one third saving in offshore man-hours.
-- Implementing the RISCm system of planning and prioritisation at the work-front saving 20% of the budgeted hours.
+- Implementing the RISCm system of planning and prioritization at the work-front saving 20% of the budgeted hours.
 - Leading teams of 100+ offshore employees and subcontractors across 8 Shell installations.
 - Leading a major safety turnaround for Shell. 0 lost time incidents in 12 months.
 - Increasing efficiency and productivity, through empowerment and not micro-management.

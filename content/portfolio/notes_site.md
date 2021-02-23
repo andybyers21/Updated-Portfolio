@@ -19,7 +19,7 @@ Netlify.
 
 This site is my personal research environment and an experiment in learning in
 public. It evolved from a vault I created to store for my ongoing note and a
-frustrstion with the tools (and cost of) avaliable at the time.
+frustration with the tools (and cost of) available at the time.
 
 ![notes](/img/notes/notes_home.png)
 
@@ -32,7 +32,7 @@ need to help you succeed.
 
 Note categorization is loosely based on the zettelkasten system. Whenever you
 add a new note, the zettelkasten method forces you to look for already existing
-notes you can link to. That broadens your thinking by foring you to consider how
+notes you can link to. That broadens your thinking by forcing you to consider how
 new ideas relate to others you’ve encountered before. If you start with an
 initial idea you cannot help but filter everything you encounter. However, the
 zettelklasten system has no preconceptions of what it is fed over the long term,
@@ -46,10 +46,10 @@ time.
 
 ## Features
 
-Notes are catogarised and tagged using YAML Tags
+Notes are categorized and tagged using YAML Tags
 
 Top level navigation structure and a flat file structure for easier note
-retrieval. File sysytem is organised in such a waty that it can easily be
+retrieval. File system is organized in such a way that it can easily be
 integrated with [Obsidian](https://obsidian.md),
 [VimWiki](http://vimwiki.github.io/) and other markdown based note taking tools.
 
@@ -73,7 +73,7 @@ y = int(input('how many fizzbuzzes? '))
 fizzy(y)
 ```
 
-Compatable with various environments, Chrome, Safari and Firefox among others
+Compatible with various environments, Chrome, Safari and Firefox among others
 
 Notes can be created in plain text or markdown in your editor of choice and
 backlinks and wikilinks are automatically generated on save. Notes are
@@ -99,7 +99,7 @@ script reads in a folder of Markdown files, notes all the wiki-style links
 between them, then adds a special “backlinks” section which lists passages which
 reference a given file. Links are formatted using `[[double square brackets]]`.
 Note titles are inferred from the first line of each note, which is assumed to
-be formatted as a `#heading`, Note title.  
+be formatted as a `#heading`, Note title.
 
 All .md files are siblings; the script does not currently
 recursively traverse subtrees. The backlinks “section” is defined as the AST
@@ -113,4 +113,3 @@ at the end of the file)
 Feel free to use the source code as you like. Its hosted under [the MIT
 license](https://opensource.org/licenses/MIT). If you do use it, let me know
 what you come up with.
-

@@ -34,7 +34,7 @@ Pluggable blog post & search apps, user management, security, Django authenticat
 - Static file & Image uploads.
 - Forms / model forms.
 - URL routing.
-- Optimised for speed.
+- Optimized for speed.
 
 ## Logins for testing
 
@@ -44,9 +44,9 @@ Pluggable blog post & search apps, user management, security, Django authenticat
 
 ![code page](/img/django_blog/blog_code.png)
 
-## Admin Pannel
+## Admin Panel
 
-Also features a complete admin pannel.
+Also features a complete admin panel.
 
 ![admin page](/img/django_blog/blog_admin.png)
 
@@ -75,4 +75,3 @@ Hosted under [the MIT license](https://opensource.org/licenses/MIT).
 - [ ] Refactor & document code.
 - [ ] Take out of Debug Mode
 - [ ] Host.
-

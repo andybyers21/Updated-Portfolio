@@ -10,7 +10,7 @@ languageCode = "en"
   description = "Describe your website"
   copyright = "&copy;2021 Andy Byers, ajb.app"
   sidebarAbout = [
-    "Hi, I’m Andy, I'm a web developer who likes to code in Python and Golang. APM qualified with a background in project management.",
+    "Hi, I’m Andy. I'm a web developer who likes to code in Python and Golang. APM qualified with a background in project management.",
     "These are some of my favourite projects, view my GitHub for more."
   ]
 

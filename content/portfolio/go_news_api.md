@@ -17,7 +17,7 @@ Build and deployed using only Go's standard library.
 
 This app was built with a few specific goals in mind:
 
-- Use Go tamplating
+- Use Go templating
 - Create search routing
 - Create and make requests to the News API server
 - Render and format the results
@@ -25,13 +25,13 @@ This app was built with a few specific goals in mind:
 
 ![news 1](/img/news/news_1.png)
 
-The app uses [NewsAPI.org](https://newsapi.org/)'s JSON API integration to colect data,
+The app uses [NewsAPI.org](https://newsapi.org/)'s JSON API integration to collect data,
 fetch news articles matching a user search query
 and present the results on the page. News API is a simple HTTP REST
 API for searching and retrieving live articles from all over the web.
 
 Input a search term and News API will scan thousands of news websites and
-organsie the information of the latest articles.
+organize the information of the latest articles.
 
 ![news 2](/img/news/news_2.png)
 
@@ -62,4 +62,3 @@ Technology Stack:
 - Golang
 
 Hosted under the [the MIT license](https://opensource.org/licenses/MIT).
-
