@@ -6,34 +6,36 @@ title = "Andy Byers"
 
 ---
 
-> I'm a web developer who likes to code in Python and Golang. I like to
-> iterate quickly, a sticker for writing succinct, understandable code. I
-> try to have a product mindset and understand creating value, not features.
-> APM qualified with a background in project management and startups.
-> I am not married to any coding language or technology, choosing the right
-> tools for the job. A proponent of open source software and open sourced thinking.
+I’m a web developer who likes to code in Python and Golang. I like to iterate
+quickly, a sticker for writing succinct, understandable code. I aim to have a
+product mindset and understand creating value, not features. APM qualified with
+a background in project management and startups. I am not married to any coding
+language or technology, choosing the right tools for the job. A proponent of
+open source software and open sourced thinking.
 
 ---
 
-## Technical Experience
+## Work Experience
 
-### FREELANCE DEVELOPER: Jan 2020 - Present
+### FREELANCE DEVELOPER: Maykind.com, Jan 2020 - Present
 
-Currently freelancing in the web development space producing tools and websites
-for SME's.
+Freelancing in the web development space producing tools and websites for SME’s.
+Including project management, time management and financial management.
 
-- Process timesheets to produce wage reports using Python automation tools
-  and basic data engineering techniques using Pandas and Jupyter Notebook
+- Process client time-sheets to produce wage reports using Python automation tools and
+  basic data engineering techniques with Pandas and Jupyter Notebook.
+- Developing company documentation and compiling into a Hugo document management
+  system.
 - Monitor corporate internet connection and report dropouts.
-- Delivering static websites for local business using HTML, CSS,
-  Hugo, Jekyll and Bootstrap.
-- A JavaScript bug tracker \(CRUD application in the browser).
+- Delivering static websites for local business using HTML, CSS, Hugo, Jekyll
+  and Bootstrap.
+- A JavaScript bug tracker (CRUD application in the browser).
 - Working with MySQL and MongoDB databases.
 - Linux basic sysadmin tasks.
 - Comfortable in and a preference for working in the command line.
-- Git and GitHub for version control.
-- Deploying projects to the web using the JAMstack, Netlify, Heroku
-  and GitHub Pages.
+- Git and GitHub for version contol.
+- Deploying projects to the web using the JAMstack, Netlify, Heroku and GitHub
+  Pages.
 
 ### WALL OF TEXT: February 2021 - Present
 
@@ -62,15 +64,12 @@ readable lines using Natural Language Processing.
   files. Deployed with Jekyll & Netlify.
 - A News Aggregator RESTful Web service, built and deployed using Go’s
   standard library.
+- Generate documents using Pandoc.
 - Built several text editors in Python (Tkinter), C, and Javascript (web
   based) to compare implementations.
 - Basic web scraping, Numpy, Pandas
 - Building blogging platforms in Django
 - HTML Sign-up forms with client-side form validation.
-
----
-
-## Work Experience
 
 ### GENERAL MANAGER: Stella’s Voice UK, May 2019 – Aug 2020:
 
@@ -106,14 +105,3 @@ management and maintenance programme in real time, monitored and managed
 through a cloud-based software package which recommends the most efficient
 workscope execution strategy.
 
-### COMBINED UK OIL & GAS INDUSTRY EXPERIENCE: 2000 - 2017
-
-17 years experience in the offshore and petrochemical industry both on and
-offshore with 13 years in supervisory and leadership roles, Administration of
-project groups of 100+ employees, including recruitment and training.
-Development of policies, standards and quality management systems.
-
-- Assisted in the development of a 5-year competency and training plan, now a
-  national OPITO standard (Blasting and Painting Competence Standard).
-- Development and testing of new coating systems and application processes
-  resulting in a one third saving in offshore man-hours.
