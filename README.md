@@ -2,4 +2,4 @@
 
 Made with Hugo.
 
-[Theme](https://github.com/kishaningithub/hugo-creative-portfolio-theme)
+Hosted at [ajb.app](https://ajb.app)
