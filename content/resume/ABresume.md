@@ -100,9 +100,9 @@ offshore employees and subcontractors across 8 Shell installations.
 
 ---
 
-### OPEN SOURCE PROJECTS
+## Open Source Projects
 
-#### WALL OF TEXT
+### WALL OF TEXT
 
 An accessibility app for people working on study and exams who suffer from ADHD
 and have issues focusing on large blocks of text for prolonged periods of time.
@@ -115,12 +115,12 @@ Processing.
 - Producing comprehensive user and developer documentation, deployed to a
   standalone Hugo site.
 
-#### DRACULA for OBSIDIAN
+### DRACULA for OBSIDIAN
 
 I am a maintainer for the open source Dracula organisation, developing dark
 themes for software developers. Working specifically in the Obsidian branch.
 
-#### NOTES.AJB.APP
+### NOTES.AJB.APP
 
 Developed and deployed a personal knowledge management site notes.ajb.app.
 Overcoming the challenge of how to link connected notes, organise information

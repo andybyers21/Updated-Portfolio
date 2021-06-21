@@ -47,10 +47,11 @@ learn and develop my technical skill.
 
 #### Frameworks
 
-- Bootstrap
+- Flask
 - Django
 - Hugo
 - Jekyll
+- Bootstrap
 
 #### Data Wrangling
 
